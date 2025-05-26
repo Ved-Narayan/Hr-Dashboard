@@ -66,7 +66,7 @@ A modern, responsive HR management dashboard built with Next.js, TypeScript, and
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Ved-Narayan/Hr-Dashboard.git)
    cd hr-performance-dashboard
    \`\`\`
 
