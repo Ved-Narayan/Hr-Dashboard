@@ -2,6 +2,12 @@
 
 A modern, responsive HR management dashboard built with Next.js, TypeScript, and Tailwind CSS. This application provides comprehensive employee management, performance tracking, and analytics capabilities.
 
+## Screenshots:
+- **Dashboard**: ![image](https://github.com/user-attachments/assets/3806d998-13c4-4454-808f-60344ab6b9a1)
+- **Bookmarks**: ![image](https://github.com/user-attachments/assets/7c471d50-b86a-4148-8674-56fd017315f7) , ![image](https://github.com/user-attachments/assets/79e2b85a-0736-42e8-9eeb-a1562743282f)
+- **Analytics**: ![image](https://github.com/user-attachments/assets/67fec9db-8fae-4a18-9c12-666efa2650c4) , ![image](https://github.com/user-attachments/assets/5a0bc61e-fffb-4d33-b296-c8528dc0a813)
+- **DarkTheme**: ![image](https://github.com/user-attachments/assets/8af84b49-106d-4138-a34c-af642c643339)
+
 
 ## ✨ Features
 
@@ -10,6 +16,7 @@ A modern, responsive HR management dashboard built with Next.js, TypeScript, and
 - **Real-time Data**: Fetches employee data from DummyJSON API with mock department and performance data
 - **Interactive Cards**: Hover effects, animations, and quick action buttons
 - **Responsive Grid**: Adaptive layout that works on all screen sizes
+
 
 ### 🔍 **Advanced Search & Filtering**
 - **Smart Search**: Real-time search by name, email, or department
