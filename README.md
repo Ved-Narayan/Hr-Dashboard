@@ -127,37 +127,8 @@ npm start
 - **TypeScript** - Static type checking
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/7626c1c9-62cb-462a-820e-c71872cf4db1)
 
-\`\`\`
-hr-performance-dashboard/
-├── app/                          # Next.js App Router
-│   ├── analytics/               # Analytics page
-│   ├── bookmarks/              # Bookmarks page
-│   ├── employee/[id]/          # Dynamic employee details
-│   ├── globals.css             # Global styles
-│   ├── layout.tsx              # Root layout
-│   ├── loading.tsx             # Loading component
-│   └── page.tsx                # Homepage
-├── components/                  # Reusable components
-│   ├── ui/                     # shadcn/ui components
-│   ├── employee-card.tsx       # Employee card component
-│   ├── mode-toggle.tsx         # Theme toggle
-│   ├── navigation.tsx          # Navigation bar
-│   ├── search-filters.tsx      # Search and filter components
-│   └── theme-provider.tsx      # Theme provider wrapper
-├── contexts/                    # React contexts
-│   └── bookmark-context.tsx    # Bookmark state management
-├── hooks/                       # Custom hooks
-│   └── use-search.ts           # Search and filter logic
-├── lib/                         # Utility functions
-│   └── utils.ts                # Common utilities
-├── public/                      # Static assets
-│   ├── img1.jpg                # Employee profile images
-│   ├── img2.jpg
-│   ├── img3.jpg
-│   └── img4.jpg                # Dashboard preview
-└── README.md                    # Project documentation
-\`\`\`
 
 ## 🎯 Key Features Implemented
 
@@ -190,23 +161,23 @@ hr-performance-dashboard/
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Homepage
-![Dashboard](img5.jpg)
+![Dashboard]
 *Employee cards with search, filters, and interactive elements*
 
 ### 👤 Employee Details
-![Employee Details](img6.jpg)
+![Employee Details]
 *Detailed employee profiles with tabbed interface*
 
 ### 📊 Analytics Dashboard
-![Analytics](img7.jpg)
+![Analytics]
 *Interactive charts and performance metrics*
 
 ### 📌 Bookmarks Management
-![Bookmarks](img8.jpg)
+![Bookmarks]
 *Saved employees with bulk action capabilities*
 
 ### 🌙 Dark Mode
-![Dark Mode](img9.jpg)
+![Dark Mode]
 *Complete dark theme with smooth transitions*
 
 ## 🔧 Configuration
