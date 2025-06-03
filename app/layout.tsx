@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "HR Performance Dashboard",
   description: "Advanced HR management and performance tracking dashboard",
-    generator: 'v0.dev'
+    generator: ''
 }
 
 export default function RootLayout({
